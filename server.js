@@ -96,7 +96,7 @@ db.query(sql, params, (err, result) => {
     message: 'success',
     data: body
   });
-});
+ });
 });
 
 // Create a candidate
